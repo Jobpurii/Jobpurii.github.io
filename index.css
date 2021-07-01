@@ -1,0 +1,9 @@
+.letter{
+    color: chartreuse;
+    background-color: cornsilk;
+    width: 50px;
+}
+.letter :hover{
+    color:coral;
+    width: 10px;
+}
